@@ -1,8 +1,9 @@
 # Theme and light/dark modes library
+TypeScript and ES6 source code available.
 ## Usage
-1. Load `IO_Themes.js` in file
+1. Load `IO.Themes.js` in file
     ```
-    <script type="text/javascript" src="path/to/IO_Themes.js" />
+    <script type="text/javascript" src="path/to/IO.Themes.js" />
     ```
 2. Initialize the theme selector with this script: 
     ```javascript
